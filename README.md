@@ -1,6 +1,4 @@
 # DirectivesHealth 
-https://krisat3003.wixsite.com/mysite-1/plans-pricing
-
 
 What is Directive Health ?
 Its like planning a trip you are going to take.
@@ -15,3 +13,5 @@ Nominate decision maker for them
 Share information about their living will
 Get Declaration, Witness and Attestation of the living will.
 Assistance with completing the Living Will 
+
+https://krisat3003.wixsite.com/mysite-1/plans-pricing
